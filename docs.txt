@@ -1,0 +1,29 @@
++ basic
+git init - create repository in local
+git remote  add  origin master (link github) - push code url remote
+git push origin master
+
+
+git clone (link) -  clone code 
+
+git pull - update
+
+git add (file name) - add file repo local
+git add . - add file repo local
+git commit -m update
+git push
+
+git status - check status file
+git log - check
+
++ advance
+git branch - view branch
+
+git branch (name) - create new branch
+git checkout (name) - switch branch 
+OR git checkkout -b (name) --create branch and switch
+
++ merge (before merge, switch master)
+git merge (name)
+git push
+
